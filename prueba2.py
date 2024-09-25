@@ -12,6 +12,7 @@ ax.set_ylabel('Ventas')
 ax.set_title('Cantidad de Ventas por Pais')
 
 plt.bar(paises,ventas)
-# plt.savefig('D:\\clases\\6to Semestre\Computación Tolerante a Fallos(Optativa)\\programas\\barras_simple.png')
+#para descargar como imagen colocar la ruta de su equipo donde esté alojado este archivo
+# plt.savefig('"D:\\clases\\6to Semestre\\Computación Tolerante a Fallos(Optativa)\\programas\\tolerando_fallas\\barras_simple.png"')
 
 plt.show()
